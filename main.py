@@ -1,5 +1,4 @@
-from ast import Num
-import re
+
 from unicodedata import numeric
 import streamlit as st
 from sklearn import datasets
